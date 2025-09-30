@@ -20,7 +20,13 @@ I'm a dedicated software engineering student passionate about building robust ap
 
 **Frameworks & Tools:**
 - Spring Boot
+- MERN Stack (MongoDB, Express.js, React, Node.js)
 - Git & GitHub
+
+**Databases:**
+- MySQL
+- Postrgesqk
+- MongoDB
 
 **Currently Learning:**
 - Data Science with Python
@@ -30,7 +36,7 @@ I'm a dedicated software engineering student passionate about building robust ap
 
 - GitHub: [@chadew344](https://github.com/chadew344)
 - Email: chanuthdewhn273@gmail.com
-- LinkedIn: 
+- LinkedIn: [chanuth-dewhan](https://www.linkedin.com/in/chanuth-dewhan)
 
 ---
 
