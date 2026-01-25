@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://chanuth-dewhan.web.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/chanuth-dewhan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/chanuthdewhan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:chanuthdewhn273@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -105,57 +105,3 @@ Machine learning and data analysis projects using real-world datasets
 
 ## 🎯 Core Competencies
 ```javascript
-const chanuth = {
-    code: ["Java", "JavaScript", "Python", "HTML/CSS"],
-    technologies: {
-        backend: ["Spring Boot", "Node.js", "Express.js", "RESTful APIs"],
-        frontend: ["React", "React Native", "HTML5", "CSS3"],
-        databases: ["MySQL", "PostgreSQL", "MongoDB"],
-        dataScience: ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Scikit-learn"]
-    },
-    architecture: ["MVC", "REST", "Microservices", "Client-Server"],
-    currentFocus: "Building production-ready full-stack applications",
-    funFact: "I learn new technologies faster than most people finish their coffee ☕"
-};
-```
-
----
-
-## 🌐 Live Applications
-
-<p align="center">
-  <a href="https://smart-lms-frontend.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Smart_LMS-Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://chanuth-dewhan.web.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 📫 Let's Connect
-
-I'm always open to collaborating on innovative projects, discussing new technologies, or exploring internship opportunities!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/chanuth-dewhan">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:chanuthdewhn273@gmail.com">
-    <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://chanuth-dewhan.web.app/">
-    <img src="https://img.shields.io/badge/Visit_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chadew344&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
-</p>
-
-<div align="center">
-  <i>⭐ From <a href="https://github.com/chadew344">Chanuth Dewhan</a> - Let's build something amazing together!</i>
-</div>
